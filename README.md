@@ -36,7 +36,7 @@ A brief description of another project, what it does, and what technologies are 
 
 ## 💬 Let's Connect
 - **Email:** [vraj20102005@gmail.com](mailto:vraj20102005@gmail.com)
-- **LinkedIn:** [Vraj Patel]([https://www.linkedin.com/in/vraj-patel-41548b243/](https://www.linkedin.com/in/vraj-patel-41548b243/))
+- **LinkedIn:** [Vraj Patel]([https://www.linkedin.com/in/vraj-patel-41548b243](https://www.linkedin.com/in/vraj-patel-41548b243))
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 
