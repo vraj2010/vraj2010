@@ -1,6 +1,3 @@
-![](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/91f50587-e41b-4afa-88c6-fba6e62919ce)
-<br>
-
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
 I'm a Software Developer, Graphic Designer and tech enthusiast passionate about computers, technology and learning new things! <br>
