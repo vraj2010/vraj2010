@@ -19,11 +19,8 @@ Here are some of my noteworthy projects:
 ### [Cambridge Avenue](https://github.com/vraj2010/Cambridge-Avenue)
 A sophisticated project aimed at revolutionizing urban development and planning using modern technologies. Check out the repository to learn more about the project and my contributions.
 
-### [Project Name]
-A brief description of another project, what it does, and what technologies are used. [Repository Link](#)
-
-### [Project Name]
-A brief description of another project, what it does, and what technologies are used. [Repository Link](#)
+### [Google Scrape Search]()
+A project focused on scraping search results from Google for data analysis and other applications. [Repository Link](#)
 
 ---
 
@@ -36,7 +33,8 @@ A brief description of another project, what it does, and what technologies are 
 
 ## 💬 Let's Connect
 - **Email:** [vraj20102005@gmail.com](mailto:vraj20102005@gmail.com)
-- **LinkedIn:** [Vraj Patel]([https://www.linkedin.com/in/vraj-patel-41548b243](https://www.linkedin.com/in/vraj-patel-41548b243))
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vraj-patel-41548b243/)
+- **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_vraj_.2010)
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 
@@ -53,4 +51,3 @@ Feel free to reach out if you have any questions, want to collaborate on a proje
 ---
 
 Thanks for visiting my profile! Have a great day! 😄
-
