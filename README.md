@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong enthusias
 ### [EduCase](https://github.com/vraj2010/EduCase)
 A modern educational platform designed to streamline learning and foster collaboration among students and educators. Explore innovative features aimed at enhancing the educational experience.
 
-### [Cambridge Avenue](https://github.com/vraj2010/Cambridge-Avenue)
-Revolutionizing urban development with modern technologies. Explore innovative solutions and insightful contributions.
-
 ### [Google Scrape Search](https://github.com/vraj2010/Google-Scrape-Search)
 A project designed to scrape and analyze Google search results for meaningful data-driven insights.
 
