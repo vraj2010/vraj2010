@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong enthusias
 ## 📂 Featured Projects
 
 ### [Hackonauts](https://github.com/vraj2010/Hackonauts)
-
+Hackonauts is a comprehensive social media analysis project built using Langflow and Python APIs, leveraging a pre-fed dataset. It includes features like sentiment analysis, trend identification, and user engagement metrics. Additionally, the project integrates a ChatBot powered by DataStax Astra and OpenAI API Key, offering interactive and user-friendly conversational insights.
 
 ### [EduCase](https://github.com/vraj2010/EduCase)
 A modern educational platform designed to streamline learning and foster collaboration among students and educators. Explore innovative features aimed at enhancing the educational experience.
