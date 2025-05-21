@@ -5,15 +5,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong enthusias
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, C++, Java
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms:** Git, AWS
-- **Frameworks:** Django, Flask, Express, .NET MVC
+- **Programming Languages:** Python, Java, JavaScript, HTML, CSS, C, PHP, .Net MVC
+- **Databases:** MySQL, MongoDB, PostgreSQL, PL/SQL
+- **Frameworks:** Node.js, React, FastAPI, Flask, TailwindCSS
+- **Tools & Platforms:** VS Code, Git, Android Studio, Langflow
 
 ---
 
 ## 📂 Featured Projects
+
+### [Document Identification System](https://github.com/vraj2010/Document-Identification-System)
+A modern, responsive web application designed to identify and classify documents intelligently using a user-friendly interface. This project uses React (with Vite) for the frontend and is optimized for performance, scalability, and clean development workflows.
 
 ### [Hackonauts](https://github.com/vraj2010/Hackonauts)
 Hackonauts is a comprehensive social media analysis project built using Langflow and Python APIs, leveraging a pre-fed dataset. It includes features like sentiment analysis, trend identification, and user engagement metrics. Additionally, the project integrates a ChatBot powered by DataStax Astra and OpenAI API Key, offering interactive and user-friendly conversational insights.
